@@ -1,8 +1,11 @@
 import React from 'react'
+import Column from '../../Components/Column'
 
 const index = () => {
   return (
-    <div>index</div>
+    <div>
+        <Column />
+    </div>
   )
 }
 
